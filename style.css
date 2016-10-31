@@ -1,0 +1,16 @@
+body{
+  background-color: lightblue;
+  text-align: center;
+}
+table{
+  border-color: #000000;
+  border-radius: 10px;
+  border-collapse: collapse;
+  border: 3px solid black;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+td, th{
+  border: 1px solid black;
+}
